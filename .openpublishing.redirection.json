@@ -1,0 +1,8 @@
+{
+  "redirections": [
+    {
+      "source_path": "noneversioningArchiveTargetFolder/index.md",
+      "redirect_url": "/versioningArchiveTestSource/index"
+    }
+  ]
+}
